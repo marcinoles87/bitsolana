@@ -2,15 +2,16 @@
 import './App.css';
 import Footer from './components/Footer';
 import Main from './components/Main';
-import Navigation from './components/Navigation'
+import Nav from './components/Nav'
+
 
 function App() {
   return (
     <div className="App">
-      <Navigation></Navigation>
+      <Nav></Nav>
       <Main></Main>
-      
       <Footer></Footer>
+      
     </div>
   );
 }

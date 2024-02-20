@@ -4,6 +4,17 @@
   box-sizing: border-box;
 }
 
+/* nav section*/
+
+.nav-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  
+}
+
 /* main section*/
 
 .main-container{
