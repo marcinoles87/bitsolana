@@ -9,6 +9,7 @@ function Navig() {
   
        <div className='nav-container'>
          <ul className='nav-link'>
+          <img src='/img/logo_img.png' alt='logo'></img>
           <li>About</li>
           <li>Tokenize</li>
           <li>How to buy</li>
