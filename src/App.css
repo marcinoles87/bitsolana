@@ -132,3 +132,35 @@ body{
   width: 300px;
   height: 300px;
 }
+
+.main-links{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.main-links i{
+  margin:20px;
+}
+
+.main-buttons button{
+  margin: 10px;
+  background-color: rgba(137, 43, 226, 0.393);
+  cursor: pointer;
+  border-radius: 10px;
+  width: auto;
+  height: 50px;
+  color:white
+}
+
+.main-buttons .main-btn{
+  background-color: blueviolet;
+  color: black;
+  padding: 8px;
+}
+
+.main-buttons .main-btn2{
+  background-color: rgba(0, 0, 0, 0.195);
+  color: blueviolet;
+  border: 2px solid blueviolet;
+}
