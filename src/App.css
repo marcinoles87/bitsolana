@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.App{
+  font-family:"IM Fell English SC", serif ;
+}
+
 .image{
   width: 100vw;
   height: 100vh;
@@ -190,6 +194,7 @@ body{
 
 .about-info h1{
   font-size: 90px;
+  font-weight: 900;
 }
 
 .about-info p{
@@ -210,6 +215,7 @@ body{
 
 .buy-container h1{
   font-size: 80px;
+  font-weight: 700;
 }
 
 .buy-item h1{
@@ -235,6 +241,43 @@ body{
   background-color: white;
   color:black;
 }
+
+/*tokenomics section*/
+
+.token-container{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    background-color: rgba(0, 0, 0, 0.877);
+    color:white;
+
+}
+
+.token-container h1{
+  font-size: 80px;
+}
+
+/*roadmap container*/
+
+.roadmap-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+  background-color: rgba(0, 0, 0, 0.877);
+  color:white;
+
+}
+
+.roadmap-container h1{
+font-size: 80px;
+}
+
+
 
 
 

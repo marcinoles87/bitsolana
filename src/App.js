@@ -5,6 +5,8 @@ import Main from './components/Main';
 import Navig from './components/Navig';
 import About from './components/About';
 import Buy from './components/Buy';
+import Tokenomics from './components/Tokenomics';
+import Roadmap from './components/Roadmap';
 
 
 function App() {
@@ -18,6 +20,8 @@ function App() {
       <Main></Main>
       <About></About>
       <Buy></Buy>
+      <Tokenomics></Tokenomics>
+      <Roadmap></Roadmap>
       <Footer></Footer>
       
     </div>
