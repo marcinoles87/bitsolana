@@ -1,9 +1,10 @@
 import React from 'react'
+import logo from '../img/logo_img.png'
 
 function About() {
   return (
     <div className='about-container'>
-        <img src='' alt='about-log'></img>
+        <img src={logo} alt='about-log'></img>
         <div className='about-info'>
             <h1>About</h1>
             <p>If you don't believe it or don't get it, I don't have the time to try to convince you, sorry.
