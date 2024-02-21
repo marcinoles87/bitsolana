@@ -3,13 +3,14 @@ import React from 'react'
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import logo from '../img/logo_img.png'
 
 function Navig() {
   return (
   
        <div className='nav-container'>
          <ul className='nav-link'>
-          <img src='/img/logo_img.png' alt='logo'></img>
+          <img src={logo} alt='logo' className='nav-logo'></img>
           <li>About</li>
           <li>Tokenize</li>
           <li>How to buy</li>
