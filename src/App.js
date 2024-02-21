@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Main from './components/Main';
 import Navig from './components/Navig';
 import About from './components/About';
+import Buy from './components/Buy';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       
       <Main></Main>
       <About></About>
+      <Buy></Buy>
       <Footer></Footer>
       
     </div>

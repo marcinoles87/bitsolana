@@ -195,6 +195,42 @@ body{
   font-size: 25px;
 }
 
+/* Buy section */
+
+.buy-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem auto;
+    background-color: rgba(0, 0, 0, 0.919);
+    color:white;
+}
+
+.buy-container h1{
+  font-size: 80px;
+}
+
+
+
+.buy-item h1{
+  font-size: 35px;
+}
+
+.buy-item p{
+  font-size: 28px;
+}
+
+.buy-item{
+  margin-bottom: 1.25rem;
+  padding: 2.5rem;
+  border: 2px solid white;
+  border-radius: 10px;
+  text-align: left;
+  width: 80%;
+}
+
+
 
 @keyframes mainLogo {
   0%{
