@@ -11,11 +11,11 @@ function Navig() {
        <div className='nav-container'>
          <ul className='nav-link'>
           <img src={logo} alt='logo' className='nav-logo'></img>
-          <li>About</li>
-          <li>Tokenize</li>
-          <li>How to buy</li>
-          <li>Telegram</li>
-          <li>Chart</li>
+          <li><a href='#'>About</a></li>
+          <li><a href='#'>Tokenize</a></li>
+          <li><a href='#'>How to buy</a></li>
+          <li><a href='#'>Telegram</a></li>
+          <li><a href='#'>Chart</a></li>
           <button className='nav-button'>BUY NOW</button>
          </ul>
        
