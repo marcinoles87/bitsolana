@@ -229,6 +229,41 @@ body{
   font-size: 25px;
 }
 
+.about_img{
+  animation: aboutAnimate 2s infinite;
+}
+
+@keyframes aboutAnimate {
+  0%{
+    transform: translateX(0px);
+  }
+
+  10%{
+    transform: translateX(20px);
+  }
+
+  30%{
+    transform: translateX(0px);
+  }
+
+  40%{
+    transform: translateX(20px);
+  }
+
+  600%{
+    transform: translateX(0px);
+  }
+
+  80%{
+    transform: translateX(20px);
+  }
+
+  100%{
+    transform: translateX(0px);
+  }
+  
+}
+
 /* Buy section */
 
 .buy-container{
