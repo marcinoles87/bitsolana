@@ -162,6 +162,7 @@ body{
 }
 
 .main-buttons .main-btn2{
+  padding: 10px;
   background-color: rgba(0, 0, 0, 0.195);
   color: blueviolet;
   border: 2px solid blueviolet;
@@ -227,6 +228,7 @@ body{
   text-align: left;
   width: 80%;
   transition: 1s ease;
+  cursor: pointer;
 }
 
 .buy-item:hover{
