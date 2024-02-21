@@ -9,7 +9,7 @@ function Main() {
         <h2> Meet the People's Bitcoin on Solana. Bitcoin, the world's leading cryptocurrency, is now available on the rising Solana blockchain.</h2>
       </div>
 
-      <div className='logo-bounce'>
+      <div className='main-logo'>
         <img src={logo} alt='logo-bounce'></img>
       </div>
       
