@@ -40,8 +40,43 @@ body{
   justify-content: center;
   align-items: center;
   height: 50px;
+  position: absolute;
+  top:10%;
+  left: 40%;
+  transform: translate(-10%,-50%);
+  background-color: rgba(0, 0, 0, 0.04);
+  color: white;
   
 }
+
+.nav-link{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  position: relative;
+  font-size: 20px;
+}
+
+.nav-button{
+  background-color: blueviolet;
+  color: white;
+  
+}
+
+.nav-link li{
+
+}
+
+
+
+.nav-link li{
+  margin: 20px;
+ 
+}
+
+
 
 /* main section*/
 

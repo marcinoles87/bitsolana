@@ -7,18 +7,19 @@ import Navbar from 'react-bootstrap/Navbar';
 function Navig() {
   return (
   
-          <Navbar bg="dark" data-bs-theme="dark">
-        <Container>
-          <Navbar.Brand href="#home">Navbar</Navbar.Brand>
-          <Nav className="me-auto">
-            <Nav.Link href="#home">About</Nav.Link>
-            <Nav.Link href="#features">Tockenize</Nav.Link>
-            <Nav.Link href="#pricing">How to Buy</Nav.Link>
-            <Nav.Link href="#pricing">Telegram</Nav.Link>
-            <Nav.Link href="#pricing">Chart</Nav.Link>
-          </Nav>
-        </Container>
-      </Navbar>
+       <div className='nav-container'>
+         <ul className='nav-link'>
+          <li>About</li>
+          <li>Tokenize</li>
+          <li>How to buy</li>
+          <li>Telegram</li>
+          <li>Chart</li>
+          <button className='nav-button'>BUY NOW</button>
+         </ul>
+       
+
+       
+       </div>
 
   
   )
