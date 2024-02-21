@@ -267,7 +267,7 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 100px;
+  padding: 50px;
   background-color: rgba(0, 0, 0, 0.877);
   color:white;
 
@@ -282,6 +282,7 @@ font-size: 80px;
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
+  margin-top: 30px;
   
 }
 
@@ -293,6 +294,7 @@ font-size: 80px;
   background-color: blueviolet;
   color: white;
   border-radius: 10px;
+  font-size: 30px;
 }
 
 
