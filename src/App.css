@@ -277,6 +277,24 @@ body{
 font-size: 80px;
 }
 
+.roadmap-info{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  
+}
+
+.roadmap-info2{
+  
+  margin-left: 30px;
+  padding: 100px;
+  text-align: center;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 10px;
+}
+
 
 
 
