@@ -2,7 +2,8 @@
 import './App.css';
 import Footer from './components/Footer';
 import Main from './components/Main';
-import Navig from './components/Navig'
+import Navig from './components/Navig';
+import About from './components/About';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       </div>
       
       <Main></Main>
+      <About></About>
       <Footer></Footer>
       
     </div>

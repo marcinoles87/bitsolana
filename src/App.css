@@ -166,6 +166,14 @@ body{
   border: 2px solid blueviolet;
 }
 
+/*about section*/
+
+.about-container{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
 
 @keyframes mainLogo {
   0%{
