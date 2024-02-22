@@ -360,6 +360,34 @@ font-size: 80px;
   font-size: 30px;
 }
 
+/*Phase section*/
+
+.phase-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px;
+  background-color: rgba(0, 0, 0, 0.877);
+  color:white;
+  
+
+}
+
+.phase-container div{
+  border: 2px solid white;
+  border-radius: 10px;
+  width: 25%;
+  text-align: center;
+  
+  
+}
+
+.phase-container div ul{
+  list-style: none;
+  padding: 0.75rem;
+}
+
 
 
 

@@ -7,6 +7,8 @@ import About from './components/About';
 import Buy from './components/Buy';
 import Tokenomics from './components/Tokenomics';
 import Roadmap from './components/Roadmap';
+import Phase from './components/Phase';
+import Contact from './components/Contact';
 
 
 function App() {
@@ -22,6 +24,8 @@ function App() {
       <Buy></Buy>
       <Tokenomics></Tokenomics>
       <Roadmap></Roadmap>
+      <Phase></Phase>
+      <Contact></Contact>
       <Footer></Footer>
       
     </div>
