@@ -14,8 +14,9 @@ function Navig() {
           <li><a href='#'>About</a></li>
           <li><a href='#'>Tokenize</a></li>
           <li><a href='#'>How to buy</a></li>
-          <li><a href='#'>Telegram</a></li>
+          <li><a href='https://t.me/thesolbitcoin'>Telegram</a></li>
           <li><a href='#'>Chart</a></li>
+
           <button className='nav-button'>BUY NOW</button>
          </ul>
        

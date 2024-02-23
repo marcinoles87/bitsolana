@@ -10,10 +10,18 @@ function Main() {
         <div className='main-links'>
             <i class="fa-brands fa-twitter fa-2xl"></i>
             <i class="fa-brands fa-telegram fa-2xl"></i>
+            <i class="fa-brands fa-twitter fa-2xl"></i>
+            <i class="fa-brands fa-telegram fa-2xl"></i>
         </div>
         <div className='main-buttons'>
+          <a href='https://raydium.io/swap/?outputCurrency=H7q9AchpSkaBt187fTBZNrCLAqW8pytTvZWrL4x7mQxg'>
           <button className='main-btn'>Buy Now</button>
-          <button className='main-btn2'>Dexscreener</button>
+          </a>
+
+          <a href='https://dexscreener.com/solana/HM9TXiPJyAa5vHvmHiXYVWGMTSXZTiUUs22nKAdmGodK'>
+             <button className='main-btn2'>Dexscreener</button>
+          </a>
+         
         </div>
     
       </div>
