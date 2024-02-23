@@ -378,15 +378,19 @@ font-size: 80px;
   border: 2px solid white;
   border-radius: 10px;
   width: 25%;
+  height: 25vw;
   text-align: center;
+  padding: 0.75rem;
   
   
 }
 
 .phase-container div ul{
   list-style: none;
-  padding: 0.75rem;
+ 
 }
+
+
 
 
 
@@ -403,6 +407,13 @@ font-size: 80px;
 
   100%{
     transform: translateY(0px);
+  }
+  
+}
+
+@media screen  and (min-width:1024px){
+  .phase-container div ul li{
+    font-size: 18px;
   }
   
 }
