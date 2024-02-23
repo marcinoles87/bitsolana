@@ -391,6 +391,20 @@ font-size: 80px;
 }
 
 
+/*contact section*/
+
+.contact-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 50px;
+  background-color: rgba(0, 0, 0, 0.877);
+  color:white;
+}
+
+
 
 
 
