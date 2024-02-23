@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bitsolana/static/css/main.0b26f7e6.css",
+    "main.js": "/bitsolana/static/js/main.213eee6e.js",
+    "static/media/contact.png": "/bitsolana/static/media/contact.8e66a82581168d19b9dc.png",
+    "static/media/logo_img.png": "/bitsolana/static/media/logo_img.5aba0189097e87dd76d3.png",
+    "static/media/main_img.jpeg": "/bitsolana/static/media/main_img.df0ba3789b54519143f6.jpeg",
+    "index.html": "/bitsolana/index.html",
+    "main.0b26f7e6.css.map": "/bitsolana/static/css/main.0b26f7e6.css.map",
+    "main.213eee6e.js.map": "/bitsolana/static/js/main.213eee6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b26f7e6.css",
+    "static/js/main.213eee6e.js"
+  ]
+}
